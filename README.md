@@ -5,10 +5,10 @@ Este projeto implementa as melhorias e extensões propostas na atividade "Arquiv
 1. Diagrama de Classes
 
 O diagrama abaixo ilustra a arquitetura final do sistema. A classe Principal (que gerencia o I/O do arquivo e o menu) foi refatorada para depender da nova classe Contato, que agora representa os dados de um registro.
-![Diagrama UML do Sistema SOL](/Diagrama.jpg)
+![Diagrama UML do Sistema SOL](/Diagrama.png)
 
 Seguem também os prints de execução do sistema e o arquivo de texto criado aberto
 
 ![Diagrama UML do Sistema SOL](/ArquivoTXTaberto.png)
 
-![Diagrama UML do Sistema SOL](/Listagem.jpg)
+![Diagrama UML do Sistema SOL](/Listagem.png)
